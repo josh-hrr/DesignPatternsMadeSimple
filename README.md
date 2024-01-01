@@ -1,7 +1,8 @@
 
 # Design Patterns Made Simple
 
-This project is a demonstration of how to use design patterns in Cypress tests. The design patterns used in this project are designed to be easy to understand and use, even for beginners.
+Demostrates the use of design patterns and a data-driven approach in Cypress tests, running in a consistent Docker environment. It leverages Cypress for end-to-end testing, TypeScript for static typing, and Docker for creating a consistent testing environment. The project is designed to be easy to understand and use, making it accessible for beginners and experienced developers alike.
+
 
 ## Design Patterns
 
