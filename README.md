@@ -29,7 +29,7 @@ We have implemented a data-driven approach in our tests. This means that our tes
 Clone git repository and branch by using the following command:
 
 ```bash
-  git clone --branch master https://github.com/josh-hrr/cypress-cucumber-playground.git 
+  git clone --branch master https://github.com/josh-hrr/DesignPatternsMadeSimple.git 
 ```
 Install Cypress
 
